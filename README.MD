@@ -11,7 +11,9 @@ Express.js
 PostgreSQL
 
 #### Sign-in page:
+<br />
+<br />
 
+![signin-page](https://github.com/beneki/den-find/assets/20746347/9b6952d4-675c-4fff-a1d4-a921bbac991a)
 
-![signin-page](https://github.com/beneki/nova-jobs/assets/20746347/5144d55a-10d3-47c9-9996-fc8ce3ee3ecd)
 
