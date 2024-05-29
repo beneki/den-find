@@ -2,6 +2,7 @@
 
 - Update your credentials for PostgreSQL DB in ormconfig.json file
 
+```sh
 {
     "type": "postgres",
     "host": "localhost",
@@ -15,6 +16,7 @@
         "src/entity/**/*.ts"
     ]
 }
+```
 
 - And then run:
 
