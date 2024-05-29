@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "name": "react_native_jobs",
+    "slug": "react_native_jobs",
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "a96058ef-890e-4a9f-a89b-8cc7c97ee60a"
+      }
+    },
+    "android": {
+      "package": "com.benjack.jobs"
+    }
+  }
+}

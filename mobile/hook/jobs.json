@@ -1,0 +1,107 @@
+[
+    {
+        "job_id": "1",
+        "employer_name": "Practi",
+        "employer_logo": "https://www.thepixelfreak.co.uk/wp-content/uploads/2019/05/Entwined-M-Logo.png",
+        "job_title": "React Developer",
+        "job_country": "UK"
+    },
+    {
+        "job_id": "2",
+        "employer_name": "Signify Technology",
+        "employer_logo": "https://signifytechnology.com/assets/logo.png",
+        "job_title": "React Developer",
+        "job_country": "UK"
+    },
+    {
+        "job_id": "3",
+        "employer_name": "Bamg Sports",
+        "employer_logo": "https://bamgsports.com/assets/logo.png",
+        "job_title": "React Developer",
+        "job_country": "UK"
+    },
+    {
+        "job_id": "4",
+        "employer_name": "Monster",
+        "employer_logo": "https://www.monster.co.uk/geo/sits_uk_site/resources/images/home/logos/monster-logo.svg",
+        "job_title": "React Developer",
+        "job_country": "UK"
+    },
+    {
+        "job_id": "5",
+        "employer_name": "Indeed",
+        "employer_logo": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Indeed_logo.png",
+        "job_title": "React Developer",
+        "job_country": "UK"
+    },
+    {
+        "job_id": "6",
+        "employer_name": "WebEng",
+        "employer_logo": "https://www.webeng.co.uk/images/logo.png",
+        "job_title": "React Developer",
+        "job_country": "UK"
+    },
+    {
+        "job_id": "7",
+        "employer_name": "Eco",
+        "employer_logo": "https://www.eco.com/assets/logo.png",
+        "job_title": "React Developer",
+        "job_country": "UK"
+    },
+    {
+        "job_id": "8",
+        "employer_name": "Coram AI",
+        "employer_logo": "https://www.coramai.com/assets/logo.png",
+        "job_title": "React Developer",
+        "job_country": "UK"
+    },
+    {
+        "job_id": "9",
+        "employer_name": "Google",
+        "employer_logo": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg",
+        "job_title": "Frontend Engineer",
+        "job_country": "US"
+    },
+    {
+        "job_id": "10",
+        "employer_name": "Facebook",
+        "employer_logo": "https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg",
+        "job_title": "Software Engineer",
+        "job_country": "US"
+    },
+    {
+        "job_id": "11",
+        "employer_name": "Amazon",
+        "employer_logo": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg",
+        "job_title": "Full Stack Developer",
+        "job_country": "US"
+    },
+    {
+        "job_id": "12",
+        "employer_name": "Microsoft",
+        "employer_logo": "https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg",
+        "job_title": "Backend Developer",
+        "job_country": "US"
+    },
+    {
+        "job_id": "13",
+        "employer_name": "Netflix",
+        "employer_logo": "https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg",
+        "job_title": "UI/UX Designer",
+        "job_country": "US"
+    },
+    {
+        "job_id": "14",
+        "employer_name": "Spotify",
+        "employer_logo": "https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg",
+        "job_title": "Mobile Developer",
+        "job_country": "Sweden"
+    },
+    {
+        "job_id": "15",
+        "employer_name": "Apple",
+        "employer_logo": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg",
+        "job_title": "iOS Developer",
+        "job_country": "US"
+    }
+]
