@@ -20,10 +20,7 @@
 
 ```sh
 pnpm install
-pnpm start
+pnpm ts-node ./src/index.ts
 ```
 
-```sh
-pnpm install
-pnpm start
-```
+
