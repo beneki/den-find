@@ -1,4 +1,4 @@
-## Nova Jobs
+## Den Find
 
 An initial prototype for a job-hunting application, leveraging capabilities of React Native, Node.js, and PostgreSQL.
 
