@@ -1,3 +1,7 @@
+## 🚀 How to use
+
+- Update your credentials for PostgreSQL DB in ormconfig.json file
+
 {
     "type": "postgres",
     "host": "localhost",
@@ -11,3 +15,15 @@
         "src/entity/**/*.ts"
     ]
 }
+
+- And then run:
+
+```sh
+pnpm install
+pnpm start
+```
+
+```sh
+pnpm install
+pnpm start
+```
